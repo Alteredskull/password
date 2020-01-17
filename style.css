@@ -1,0 +1,11 @@
+#container {
+    border: 1px solid black;
+}
+
+#generate {
+    display:inline-block;
+}
+
+#copy {
+    display:inline-block;
+}
