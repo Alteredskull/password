@@ -1,11 +1,35 @@
-#container {
-    border: 1px solid black;
+.container {
+    border: 13px solid black;
+    text-align:center;
 }
 
-#generate {
-    display:inline-block;
+h1, h2 {
+    text-align: center;
 }
 
-#copy {
-    display:inline-block;
+textarea {
+    width: 250px;
+    height: 250px;
+}
+
+.copy {
+    background-color:gray;
+    border-radius: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.generate {
+    background-color:red;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
 }
