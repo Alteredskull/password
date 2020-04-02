@@ -13,7 +13,7 @@ if(wantUpper == false) {
 } else {
     var uppercase = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
 }
-
+// test
 if(wantLower == false) {
     var lowercase = '';
 } else {
